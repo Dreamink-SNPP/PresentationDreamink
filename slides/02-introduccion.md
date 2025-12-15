@@ -1,19 +1,27 @@
 # Introducción
 
-## Contexto General
+## Contexto de la Investigación
 
-- Punto clave sobre el contexto de la investigación
-- Antecedentes relevantes del tema
-- Importancia del área de estudio
+La **sistematización del proceso de pre-escritura de guiones** constituye una práctica fundamental para garantizar la coherencia y viabilidad de proyectos audiovisuales antes de la composición literaria final.
 
-## Motivación
+## Estructura del Estudio
 
-Breve descripción de qué motivó esta investigación y por qué es relevante en el contexto actual.
+Esta investigación abarca cinco capítulos que cubren:
+
+- **Marco introductorio** - Contextualización del problema
+- **Marco teórico** - Fundamentos conceptuales
+- **Marco metodológico** - Diseño de investigación
+- **Marco analítico** - Hallazgos y análisis de datos
+- **Requerimientos de software** - Documentación arquitectónica
+
+## Relevancia
+
+Examina herramientas y metodologías adaptadas a diferentes contextos y necesidades de los guionistas, con énfasis en prácticas locales del Departamento Central.
 
 <!--
 Notas del presentador:
-- Establecer el contexto general de la investigación
-- Explicar la relevancia del tema
-- Conectar con la experiencia de la audiencia
-- Duración: 3-4 minutos
+- Establecer que la investigación trata sobre cómo los guionistas organizan sus ideas antes de escribir
+- Explicar la importancia de la pre-escritura en proyectos audiovisuales
+- Mencionar que el estudio es tanto teórico como práctico
+- Duración: 2-3 minutos
 -->

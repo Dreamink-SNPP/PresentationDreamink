@@ -1,23 +1,32 @@
 # Justificación
 
-## Importancia de la Investigación
+## Justificación Teórica
 
-Explicación de por qué es importante realizar esta investigación.
+- Aborda una variable **poco estudiada** en un contexto geográfico específico
+- Genera **evidencia empírica** para marcos de procesos creativos
 
-## Aporte al Conocimiento
+## Justificación Práctica
 
-- Contribución teórica
-- Contribución práctica
-- Contribución metodológica
+- Proporciona **referencias metodológicas** para profesionales principiantes
+- Reduce la curva de aprendizaje mediante documentación de prácticas efectivas
 
-## Impacto Esperado
+## Justificación Social
 
-Descripción del impacto potencial de los resultados en el campo de estudio y en la práctica profesional.
+- **Legitimiza académicamente** las prácticas de guionistas locales
+- Beneficia a instituciones educativas y organizaciones del sector
+
+## Justificación Económica
+
+- Optimiza inversión pública/privada identificando prácticas efectivas y necesidades reales
+
+## Justificación Metodológica
+
+- Ofrece **operacionalización validada** de la variable "sistematización de pre-escritura" para futuras investigaciones comparativas
 
 <!--
 Notas del presentador:
-- Enfatizar la relevancia y necesidad del estudio
-- Destacar las contribuciones únicas
-- Mencionar beneficiarios potenciales
+- Enfatizar el impacto multidimensional de la investigación
+- Destacar que beneficia tanto a la academia como a la industria
+- Mencionar la contribución a la profesionalización del sector audiovisual
 - Duración: 3-4 minutos
 -->

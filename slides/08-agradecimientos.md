@@ -5,15 +5,13 @@ class: text-center
 
 # Agradecimientos
 
-<div class="text-lg leading-relaxed">
+<div class="text-lg leading-relaxed mt-8">
 
-A [nombre del director/a de tesis] por su orientación y apoyo.
+Agradecemos profundamente al **Prof. Lic. Moisés Ávalos**, nuestro tutor, por su guía y dedicación a lo largo de este trabajo de investigación.
 
-A [institución/universidad] por los recursos proporcionados.
+Al cuerpo docente del **Centro Tecnológico de Formación Profesional Paraguay -- Japón** por su contribución de experiencia y conocimientos prácticos durante nuestra formación académica.
 
-A [colaboradores/participantes] por su valiosa contribución.
-
-A mi familia y amigos por su apoyo incondicional.
+A los **guionistas del Departamento Central** que participaron en las entrevistas, compartiendo generosamente sus experiencias y prácticas profesionales.
 
 </div>
 
@@ -27,10 +25,15 @@ A mi familia y amigos por su apoyo incondicional.
 
 </div>
 
+<div class="abs-br m-6 text-sm opacity-50">
+  Fernando Cardozo & Alberto Álvarez · 2025
+</div>
+
 <!--
 Notas del presentador:
-- Agradecer a quienes contribuyeron al trabajo
-- Mantener un tono sincero y breve
-- Abrir espacio para preguntas
-- Duración: 1-2 minutos
+- Mantener tono sincero y agradecido
+- Enfatizar la colaboración de los participantes del estudio
+- Abrir espacio para preguntas del jurado/audiencia
+- Prepararse para preguntas sobre metodología, hallazgos y propuesta
+- Duración: 1-2 minutos + sesión de preguntas
 -->

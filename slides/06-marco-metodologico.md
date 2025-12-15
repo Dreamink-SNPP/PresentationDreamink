@@ -2,29 +2,42 @@
 
 ## Tipo de Investigación
 
-Descripción del enfoque y tipo de investigación utilizado.
+- **Tipo:** Investigación básica, descriptiva
+- **Diseño:** Transversal (período único: 2025)
+- **Enfoque:** Cualitativo
+- **Nivel:** Observacional-descriptivo sin intervención experimental
 
 ## Población y Muestra
 
-- **Población:** Descripción de la población objetivo
-- **Muestra:** Características y tamaño de la muestra
+- **Población:** Guionistas activos del Departamento Central, Paraguay
+- **Muestra:** Tres (3) guionistas seleccionados por muestreo aleatorio simple
+- **Criterios de inclusión:**
+  - Profesionales activos en Departamento Central
+  - Experiencia demostrable en guion cinematográfico
+  - Disposición voluntaria a participar
+
+---
 
 ## Técnicas e Instrumentos
 
-- Técnica 1: Descripción breve
-- Técnica 2: Descripción breve
-- Instrumento de recolección de datos
+- **Técnica:** Entrevistas semiestructuradas
+- **Instrumento:** Guía de entrevista diseñada para explorar sistematización de pre-escritura
+- **Formato:** Preguntas abiertas permitiendo a participantes expresar libremente sus experiencias
 
-## Procedimiento
+## Análisis de Datos
 
-1. Fase 1: Descripción
-2. Fase 2: Descripción
-3. Fase 3: Descripción
+**Método:** Análisis cualitativo de contenido identificando temas y patrones emergentes mediante:
+
+1. Transcripción de entrevistas
+2. Codificación y categorización de contenido
+3. Identificación de patrones y temas
+4. Interpretación y descripción del fenómeno
 
 <!--
 Notas del presentador:
-- Explicar el diseño metodológico de forma clara
-- Justificar las decisiones metodológicas
-- Describir el proceso de recolección y análisis de datos
-- Duración: 5-6 minutos
+- Explicar que se optó por enfoque cualitativo para capturar experiencias reales
+- Justificar el tamaño de muestra (3 participantes) por profundidad de análisis
+- Destacar la importancia de entrevistas semiestructuradas para flexibilidad
+- Mencionar la saturación de datos alcanzada
+- Duración: 4-5 minutos
 -->
