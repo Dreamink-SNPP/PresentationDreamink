@@ -1,7 +1,39 @@
+# Dependencies
 node_modules
-.DS_Store
+
+# Build outputs
 dist
 *.local
+
+# Slidev generated files
 .vite-inspect
 .remote-assets
 components.d.ts
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.log
+*.tmp
+.cache
+
+# Exports (optional - uncomment if you don't want to commit exports)
+# *.pdf
+# *.pptx
+# slides-export/
+
+# Environment variables (if you add any)
+.env
+.env.local
+.env.*.local
