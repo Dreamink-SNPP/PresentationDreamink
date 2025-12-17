@@ -377,7 +377,7 @@ Para BibTeX:
 
 Para contribuciones académicas significativas o colaboraciones de investigación:
 
-- **Contacto**: fernando.cardozo@example.com, alberto.alvarez@example.com
+- **Contacto**: fernanditocardozo@protonmail.com, alberto.alvarez@example.com
 - **Temas**: Metodologías de guionismo, estructuras dramáticas, herramientas de pre-escritura
 - **Co-autoría**: Discutido caso por caso para contribuciones sustanciales
 - **Reconocimiento**: Contribuyentes reconocidos en diapositivas de presentación

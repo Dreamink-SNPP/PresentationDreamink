@@ -32,7 +32,7 @@ Si descubre una vulnerabilidad de seguridad en las dependencias del proyecto:
 **2. Reportar Privadamente**
 - **Preferido**: Use [GitHub Security Advisory](https://github.com/Dreamink-SNPP/PresentationDreamink/security/advisories/new) (crear un aviso de seguridad privado)
 - **Alternativa**: Envíe un correo electrónico directamente a los mantenedores:
-  - Fernando Cardozo: fernando.cardozo@example.com
+  - Fernando Cardozo: fernanditocardozo@protonmail.com
   - Alberto Álvarez: alberto.alvarez@example.com
 
 **3. Proporcionar Detalles**
@@ -216,7 +216,7 @@ Apreciamos la divulgación responsable y reconoceremos las contribuciones de seg
 ## Contacto
 
 ### Equipo de Seguridad
-- **Fernando Cardozo**: fernando.cardozo@example.com
+- **Fernando Cardozo**: fernanditocardozo@protonmail.com
 - **Alberto Álvarez**: alberto.alvarez@example.com
 
 ### Supervisor Académico

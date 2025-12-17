@@ -71,7 +71,7 @@ This Code of Conduct also applies when an individual is representing the project
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at:
 
-- **Fernando Cardozo**: fernando.cardozo@example.com
+- **Fernando Cardozo**: fernanditocardozo@protonmail.com
 - **Alberto Álvarez**: alberto.alvarez@example.com
 
 For academic integrity concerns, you may also contact:

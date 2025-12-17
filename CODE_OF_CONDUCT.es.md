@@ -71,7 +71,7 @@ Este Código de Conducta también se aplica cuando un individuo está representa
 
 Las instancias de comportamiento abusivo, acosador o inaceptable pueden ser reportadas contactando al equipo del proyecto en:
 
-- **Fernando Cardozo**: fernando.cardozo@example.com
+- **Fernando Cardozo**: fernanditocardozo@protonmail.com
 - **Alberto Álvarez**: alberto.alvarez@example.com
 
 Para preocupaciones sobre integridad académica, también puede contactar a:

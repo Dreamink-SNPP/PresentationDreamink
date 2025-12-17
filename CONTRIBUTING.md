@@ -377,7 +377,7 @@ For BibTeX:
 
 For significant academic contributions or research collaborations:
 
-- **Contact**: fernando.cardozo@example.com, alberto.alvarez@example.com
+- **Contact**: fernanditocardozo@protonmail.com, alberto.alvarez@example.com
 - **Topics**: Screenwriting methodologies, dramatic structures, pre-writing tools
 - **Co-authorship**: Discussed on a case-by-case basis for substantial contributions
 - **Acknowledgment**: Contributors acknowledged in presentation slides
