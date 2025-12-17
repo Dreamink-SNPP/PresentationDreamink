@@ -347,6 +347,18 @@ Examples:
 
 ---
 
+## Community
+
+We welcome contributions! Please review our community guidelines:
+
+- [Code of Conduct](CODE_OF_CONDUCT.md) | [Código de Conducta](CODE_OF_CONDUCT.es.md)
+- [Contributing Guide](CONTRIBUTING.md) | [Guía de Contribución](CONTRIBUTING.es.md)
+- [Security Policy](SECURITY.md) | [Política de Seguridad](SECURITY.es.md)
+
+For issues and feature requests, use our [issue templates](.github/ISSUE_TEMPLATE/).
+
+---
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

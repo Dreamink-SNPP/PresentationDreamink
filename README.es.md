@@ -303,6 +303,16 @@ pnpm build
 - [Temas](https://sli.dev/resources/theme-gallery)
 - [GitHub de Slidev](https://github.com/slidevjs/slidev)
 
+## Comunidad
+
+¡Damos la bienvenida a contribuciones! Por favor revisa nuestras guías comunitarias:
+
+- [Code of Conduct](CODE_OF_CONDUCT.md) | [Código de Conducta](CODE_OF_CONDUCT.es.md)
+- [Contributing Guide](CONTRIBUTING.md) | [Guía de Contribución](CONTRIBUTING.es.md)
+- [Security Policy](SECURITY.md) | [Política de Seguridad](SECURITY.es.md)
+
+Para reportar problemas o solicitudes, utiliza nuestras [plantillas de issues](.github/ISSUE_TEMPLATE/).
+
 ## Soporte
 
 Si encuentras problemas:
