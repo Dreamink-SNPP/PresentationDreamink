@@ -1,12 +1,105 @@
-# Presentación de Tesis - Slidev
+# Thesis Presentation - Slidev
 
-Presentación académica de tesis desarrollada con [Slidev](https://sli.dev/), una herramienta de presentaciones moderna y potente para desarrolladores.
+> **Organizational Dispersion of Dramatic Structures in Screenwriters from the Central Department**
 
-## Estructura del Proyecto
+Academic thesis presentation developed with [Slidev](https://sli.dev/), a modern and powerful presentation tool for developers.
+
+## About This Presentation
+
+This presentation accompanies a thesis research project that explores the **systematization of the pre-writing process for audiovisual scripts**. The study examines tools and methodologies adapted to different contexts and needs of screenwriters, with emphasis on local practices in the Central Department of Paraguay.
+
+### Research Overview
+
+The thesis constitutes a fundamental practice to guarantee the coherence and viability of audiovisual projects before final literary composition. It covers five chapters:
+
+- **Introductory Framework** - Problem contextualization
+- **Theoretical Framework** - Conceptual foundations
+- **Methodological Framework** - Research design
+- **Analytical Framework** - Findings and data analysis
+- **Software Requirements** - Architectural documentation
+
+### Authors
+
+- **Ing. Fernando Cardozo**
+- **Alberto Álvarez**
+
+**Academic Supervisor:** Prof. Lic. Moisés Ávalos
+
+**Institution:** Centro Tecnológico de Formación Profesional Paraguay-Japón (CTFP-PJ) / Servicio Nacional de Promoción Profesional (SNPP)
+
+**Location:** San Lorenzo, Paraguay
+
+**Year:** 2025
+
+---
+
+## Presentation Structure
+
+The presentation is organized into 8 sections:
+
+1. **Cover** (`01-portada.md`) - Title, authors, institution
+2. **Introduction** (`02-introduccion.md`) - General introduction and context
+3. **Problem Statement** (`03-planteamiento-problema.md`) - Research problem
+4. **Objectives** (`04-objetivos.md`) - General and specific objectives
+5. **Justification** (`05-justificacion.md`) - Study justification
+6. **Methodological Framework** (`06-marco-metodologico.md`) - Research methodology
+7. **Conclusion** (`07-conclusion.md`) - Conclusions and findings
+8. **Acknowledgments** (`08-agradecimientos.md`) - Thanks and closing
+
+---
+
+## Quick Start
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (v20 or higher)
+- [pnpm](https://pnpm.io/) (package manager)
+
+### Installation
+
+```bash
+# Install dependencies
+pnpm install
+```
+
+### Development
+
+```bash
+# Start development server
+pnpm dev
+```
+
+Visit [http://localhost:3030](http://localhost:3030) to view the presentation.
+
+The presentation will automatically reload when you save changes to files.
+
+### Build
+
+```bash
+# Build for production (generates static files)
+pnpm build
+```
+
+### Export
+
+```bash
+# Export to PDF
+pnpm export
+
+# Export to PPTX (PowerPoint)
+pnpm export --format pptx
+
+# Export to PNG (images per slide)
+pnpm export --format png
+```
+
+---
+
+## Project Structure
 
 ```
 PresentationDreamink/
-├── slides/              # Secciones de la presentación (editar aquí)
+├── slides/              # Presentation sections (edit here)
 │   ├── 01-portada.md
 │   ├── 02-introduccion.md
 │   ├── 03-planteamiento-problema.md
@@ -15,302 +108,261 @@ PresentationDreamink/
 │   ├── 06-marco-metodologico.md
 │   ├── 07-conclusion.md
 │   └── 08-agradecimientos.md
-├── public/              # Recursos estáticos (imágenes, logos, etc.)
-├── styles/              # Estilos personalizados
+├── public/              # Static resources (images, logos, etc.)
+├── styles/              # Custom styles
 │   └── custom.css
-├── slides.md            # Archivo principal (NO editar, solo importa secciones)
+├── slides.md            # Main file (DO NOT edit, only imports sections)
 └── package.json
 ```
 
-## Inicio Rápido
+---
 
-### Prerrequisitos
+## Editing Content
 
-- [Node.js](https://nodejs.org/) (v20 o superior)
-- [pnpm](https://pnpm.io/) (gestor de paquetes)
+### How to Edit
 
-### Instalación
+1. Open the section file you want to edit in `slides/`
+2. Modify the content in Markdown format
+3. Save the file
+4. Changes will be automatically reflected in the browser
 
-```bash
-# Instalar dependencias
-pnpm install
-```
+### Markdown Syntax
 
-### Desarrollo
-
-```bash
-# Iniciar servidor de desarrollo
-pnpm dev
-```
-
-Visita [http://localhost:3030](http://localhost:3030) para ver la presentación.
-
-La presentación se recargará automáticamente al guardar cambios en los archivos.
-
-### Construcción
-
-```bash
-# Construir para producción (genera archivos estáticos)
-pnpm build
-```
-
-### Exportación
-
-```bash
-# Exportar a PDF
-pnpm export
-
-# Exportar a PPTX (PowerPoint)
-pnpm export --format pptx
-
-# Exportar a PNG (imágenes por diapositiva)
-pnpm export --format png
-```
-
-## Edición de Contenido
-
-### Estructura de Secciones
-
-La presentación está organizada en 8 secciones independientes dentro de `slides/`:
-
-1. **01-portada.md** - Portada con título, autor, institución
-2. **02-introduccion.md** - Introducción y contexto general
-3. **03-planteamiento-problema.md** - Problema de investigación
-4. **04-objetivos.md** - Objetivos general y específicos
-5. **05-justificacion.md** - Justificación del estudio
-6. **06-marco-metodologico.md** - Metodología de investigación
-7. **07-conclusion.md** - Conclusiones y hallazgos
-8. **08-agradecimientos.md** - Agradecimientos y cierre
-
-### Cómo Editar
-
-1. Abre el archivo de la sección que deseas editar en `slides/`
-2. Modifica el contenido en formato Markdown
-3. Guarda el archivo
-4. Los cambios se reflejarán automáticamente en el navegador
-
-### Sintaxis de Markdown
-
-Slidev utiliza Markdown extendido con características especiales:
+Slidev uses extended Markdown with special features:
 
 ```markdown
-# Título Principal (h1)
-## Subtítulo (h2)
-### Título de Sección (h3)
+# Main Title (h1)
+## Subtitle (h2)
+### Section Title (h3)
 
-- Lista con viñetas
-- Segundo elemento
+- Bulleted list
+- Second item
 
-1. Lista numerada
-2. Segundo elemento
+1. Numbered list
+2. Second item
 
-**Texto en negrita**
-*Texto en cursiva*
+**Bold text**
+*Italic text*
 
-`código en línea`
+`inline code`
 
-\```javascript
-// Bloque de código
-const ejemplo = "Hola Mundo";
-\```
+```javascript
+// Code block
+const example = "Hello World";
+```
 ```
 
-### Características Avanzadas
+### Advanced Features
 
-#### Animaciones Click
+#### Click Animations
 ```markdown
 <div v-click>
-Este contenido aparece al hacer click
+This content appears on click
 </div>
 ```
 
-#### Notas del Presentador
+#### Presenter Notes
 ```markdown
 <!--
-Estas son notas solo visibles en modo presentador
+These are notes only visible in presenter mode
 -->
 ```
 
-#### Layouts Personalizados
+#### Custom Layouts
 ```markdown
 ---
 layout: center
 class: text-center
 ---
 
-# Contenido centrado
+# Centered content
 ```
 
-Consulta la [documentación de Slidev](https://sli.dev/guide/syntax.html) para más características.
+Check the [Slidev documentation](https://sli.dev/guide/syntax.html) for more features.
 
-## Gestión de Recursos (Imágenes, Logos)
+---
 
-### Agregar Imágenes
+## Resource Management (Images, Logos)
 
-1. Coloca tus archivos en la carpeta `public/`
-2. Referencia desde cualquier slide con ruta absoluta:
+### Adding Images
+
+1. Place your files in the `public/` folder
+2. Reference from any slide with absolute path:
 
 ```markdown
-![Descripción](/imagen.png)
+![Description](/image.png)
 
-<!-- O con HTML -->
-<img src="/logo-universidad.png" alt="Logo" width="200">
+<!-- Or with HTML -->
+<img src="/university-logo.png" alt="Logo" width="200">
 ```
 
 ### Git LFS (Large File Storage)
 
-Este proyecto está configurado para usar Git LFS para archivos grandes:
+This project is configured to use Git LFS for large files:
 
 ```bash
-# Instalar Git LFS (solo una vez)
+# Install Git LFS (only once)
 git lfs install
 
-# Los archivos en public/ se rastearán automáticamente
-# según la configuración en .gitattributes
+# Files in public/ will be tracked automatically
+# according to configuration in .gitattributes
 ```
 
-Tipos de archivo rastreados por Git LFS:
-- Imágenes: jpg, png, gif, svg, webp
+File types tracked by Git LFS:
+- Images: jpg, png, gif, svg, webp
 - Videos: mp4, mov, avi, webm
-- Documentos: pdf, pptx, docx
-- Fuentes: ttf, otf, woff, woff2
+- Documents: pdf, pptx, docx
+- Fonts: ttf, otf, woff, woff2
 
-## Colaboración
-
-### Flujo de Trabajo Recomendado
-
-Para trabajar en equipo sin conflictos:
-
-1. **Asignar secciones**: Cada colaborador trabaja en archivos diferentes
-   - Persona A: `01-portada.md`, `02-introduccion.md`, `03-planteamiento-problema.md`
-   - Persona B: `04-objetivos.md`, `05-justificacion.md`, `06-marco-metodologico.md`
-   - Ambos: `07-conclusion.md`, `08-agradecimientos.md`
-
-2. **Usar ramas** (opcional pero recomendado):
-   ```bash
-   # Crear rama para tu sección
-   git checkout -b feature/introduccion
-
-   # Hacer commits
-   git add slides/02-introduccion.md
-   git commit -m "feat(introduccion): agregar contexto histórico"
-
-   # Subir cambios
-   git push origin feature/introduccion
-   ```
-
-3. **Pull Requests**: Revisar cambios antes de fusionar a `main`
-
-### Convenciones de Commits
-
-```
-feat(sección): descripción breve
-fix(sección): corrección de error
-docs(readme): actualizar documentación
-style(css): ajustar estilos
-```
-
-Ejemplos:
-- `feat(objetivos): agregar objetivos específicos`
-- `fix(metodologia): corregir tabla de muestra`
-- `docs(readme): actualizar instrucciones de instalación`
-
-## Personalización
-
-### Tema
-
-El tema actual es **Seriph** (profesional, académico).
-
-Para cambiar de tema, edita `slides.md`:
-```yaml
 ---
-theme: seriph  # Cambia a 'default' u otro tema
+
+## Presenter Mode
+
+When running `pnpm dev`, you can open presenter mode:
+
+1. Press `O` to open presenter mode in another window
+2. The main window shows the presentation
+3. The presenter window shows:
+   - Current slide
+   - Next slide
+   - Presenter notes
+   - Timer
+
 ---
-```
 
-Temas disponibles: [Slidev Theme Gallery](https://sli.dev/resources/theme-gallery)
+## Keyboard Shortcuts
 
-### Estilos Personalizados
+In presentation mode:
 
-Edita `styles/custom.css` para ajustar:
-- Colores institucionales
-- Tipografía
-- Espaciado
-- Componentes personalizados
+- `→` / `Space`: Next slide
+- `←`: Previous slide
+- `↑` / `↓`: First / Last slide
+- `O`: Presenter mode
+- `F`: Full screen
+- `D`: Dark mode
+- `G`: Go to specific slide
 
-### Configuración
-
-Edita el frontmatter en `slides.md` para ajustar:
-```yaml
 ---
-title: Tu Título         # Título de la presentación
-duration: 45min          # Duración estimada
-transition: slide-left   # Tipo de transición
-background: url          # Imagen de fondo
----
-```
 
-## Modo Presentador
-
-Al ejecutar `pnpm dev`, puedes abrir el modo presentador:
-
-1. Presiona `O` para abrir el modo presentador en otra ventana
-2. La ventana principal muestra la presentación
-3. La ventana del presentador muestra:
-   - Diapositiva actual
-   - Próxima diapositiva
-   - Notas del presentador
-   - Temporizador
-
-## Atajos de Teclado
-
-En modo presentación:
-
-- `→` / `Espacio`: Siguiente diapositiva
-- `←`: Diapositiva anterior
-- `↑` / `↓`: Primera / Última diapositiva
-- `O`: Modo presentador
-- `F`: Pantalla completa
-- `D`: Modo oscuro
-- `G`: Ir a diapositiva específica
-
-## Despliegue
+## Deployment
 
 ### Netlify / Vercel
 
-Este proyecto incluye configuración para despliegue automático:
+This project includes configuration for automatic deployment:
 
-- **Netlify**: Configurado en `netlify.toml`
-- **Vercel**: Configurado en `vercel.json`
+- **Netlify**: Configured in `netlify.toml`
+- **Vercel**: Configured in `vercel.json`
 
-Conecta tu repositorio y el despliegue será automático en cada push.
+Connect your repository and deployment will be automatic on each push.
 
 ### Manual
 
 ```bash
-# Construir
+# Build
 pnpm build
 
-# Los archivos estarán en ./dist
-# Sube el contenido de dist/ a tu servidor
+# Files will be in ./dist
+# Upload the contents of dist/ to your server
 ```
-
-## Recursos
-
-- [Documentación de Slidev](https://sli.dev/)
-- [Sintaxis de Markdown](https://sli.dev/guide/syntax.html)
-- [Animaciones](https://sli.dev/guide/animations.html)
-- [Temas](https://sli.dev/resources/theme-gallery)
-- [GitHub de Slidev](https://github.com/slidevjs/slidev)
-
-## Soporte
-
-Si encuentras problemas:
-
-1. Revisa la [documentación oficial](https://sli.dev/)
-2. Busca en los [issues de GitHub](https://github.com/slidevjs/slidev/issues)
-3. Consulta con tu co-investigador
 
 ---
 
-**Desarrollado con [Slidev](https://sli.dev/)** - Presentaciones para desarrolladores
+## Customization
+
+### Theme
+
+The current theme is **Seriph** (professional, academic).
+
+To change theme, edit `slides.md`:
+```yaml
+---
+theme: seriph  # Change to 'default' or another theme
+---
+```
+
+Available themes: [Slidev Theme Gallery](https://sli.dev/resources/theme-gallery)
+
+### Custom Styles
+
+Edit `styles/custom.css` to adjust:
+- Institutional colors
+- Typography
+- Spacing
+- Custom components
+
+---
+
+## Collaboration
+
+This project is open for collaboration under the MIT License. Feel free to:
+
+- Fork the repository
+- Submit pull requests
+- Report issues
+- Suggest improvements
+
+### Recommended Workflow
+
+For team collaboration without conflicts:
+
+1. **Assign sections**: Each collaborator works on different files
+2. **Use branches** (optional but recommended):
+   ```bash
+   # Create branch for your section
+   git checkout -b feature/introduction
+
+   # Make commits
+   git add slides/02-introduccion.md
+   git commit -m "feat(introduction): add historical context"
+
+   # Push changes
+   git push origin feature/introduction
+   ```
+
+3. **Pull Requests**: Review changes before merging to `main`
+
+### Commit Conventions
+
+```
+feat(section): brief description
+fix(section): bug fix
+docs(readme): update documentation
+style(css): adjust styles
+```
+
+Examples:
+- `feat(objectives): add specific objectives`
+- `fix(methodology): correct sample table`
+- `docs(readme): update installation instructions`
+
+---
+
+## Resources
+
+- [Slidev Documentation](https://sli.dev/)
+- [Markdown Syntax](https://sli.dev/guide/syntax.html)
+- [Animations](https://sli.dev/guide/animations.html)
+- [Themes](https://sli.dev/resources/theme-gallery)
+- [Slidev GitHub](https://github.com/slidevjs/slidev)
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Copyright (c) 2025 Ing. Fernando Cardozo and Alberto Álvarez
+
+---
+
+## Support
+
+If you encounter issues:
+
+1. Check the [official documentation](https://sli.dev/)
+2. Search in [GitHub issues](https://github.com/slidevjs/slidev/issues)
+3. Contact the authors
+
+---
+
+**Developed with [Slidev](https://sli.dev/)** - Presentations for developers
