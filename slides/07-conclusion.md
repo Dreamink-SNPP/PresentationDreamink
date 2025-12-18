@@ -71,6 +71,12 @@ La solución propuesta aborda estas necesidades empíricamente documentadas medi
 - Gestión centralizada de información
 - Vinculación contextual de elementos
 
+---
+layout: center
+---
+
+# Demostración del Sistema
+
 <!--
 Notas del presentador:
 - Enfatizar que estos hallazgos son consistentes entre los tres participantes
