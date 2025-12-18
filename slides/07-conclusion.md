@@ -59,18 +59,6 @@ layout: center
 - Digital para **formalización**
 - *No son fases intercambiables*
 
----
-layout: center
----
-
-## Implicación para DREAMINK
-
-La solución propuesta aborda estas necesidades empíricamente documentadas mediante:
-
-- Interfaz unificada con visualización tipo post-it
-- Gestión centralizada de información
-- Vinculación contextual de elementos
-
 <!--
 Notas del presentador:
 - Enfatizar que estos hallazgos son consistentes entre los tres participantes
