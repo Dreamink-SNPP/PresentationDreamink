@@ -10,7 +10,7 @@ layout: center
 
 - Los guionistas enfrentan **desafíos durante la pre-escritura** debido a la naturaleza no lineal del trabajo creativo
 
-- En Latinoamérica, los guionistas aprenden mayormente de forma **autodidacta**
+- En el Paraguay, los guionistas aprenden mayormente de forma **autodidacta**
 
 - El sector audiovisual paraguayo se institucionalizó recientemente pero **carece de estudios académicos** sobre prácticas locales
 
