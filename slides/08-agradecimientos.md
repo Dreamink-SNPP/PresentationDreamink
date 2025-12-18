@@ -26,7 +26,7 @@ A los **guionistas del Departamento Central** que participaron en las entrevista
 </div>
 
 <div class="abs-br m-6 text-sm opacity-50">
-  Fernando Cardozo & Alberto Álvarez · 2025
+  Ing. Fernando Cardozo & Alberto Álvarez · 2025
 </div>
 
 <!--
