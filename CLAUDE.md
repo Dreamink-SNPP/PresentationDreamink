@@ -77,8 +77,10 @@ The project has two separate styling systems that serve different purposes:
 
 The project uses Git Large File Storage (LFS) for binary assets. All files in `public/` matching image, video, font, and document patterns (see `.gitattributes`) are tracked via LFS. When adding media assets:
 - Place them in `public/` directory
-- They'll automatically be tracked by Git LFS
+- They'll automatically be tracked by Git LFS (if you have Git LFS installed: `git lfs install`)
 - Reference them in slides with absolute paths (e.g., `/logo.png`)
+
+**LFS-tracked file types**: Images (jpg, png, gif, svg, webp), videos (mp4, mov, avi, webm), documents (pdf, pptx, docx), fonts (ttf, otf, woff, woff2), and archives (zip, tar, gz)
 
 ## Content Editing Patterns
 
@@ -111,6 +113,28 @@ Presenter notes here
 
 Access presenter mode by pressing `O` during presentation.
 
+### Keyboard Shortcuts (Development Mode)
+
+When testing with `pnpm dev`, these shortcuts are essential:
+- `→` / `Space` - Next slide
+- `←` - Previous slide
+- `↑` / `↓` - First / Last slide
+- `O` - Open presenter mode
+- `F` - Full screen
+- `D` - Toggle dark mode
+- `G` - Go to specific slide
+
+## Testing and Verification
+
+Before committing changes, always verify:
+
+1. **Development mode**: `pnpm dev` - Check slides display correctly, animations work
+2. **Production build**: `pnpm build` - Ensure build completes without errors
+3. **Export functionality**: `pnpm export` (PDF), `pnpm export --format pptx` (PowerPoint), `pnpm export --format png` (images)
+4. **Presenter mode**: Press `O` during development to verify presenter notes
+5. **Cross-browser**: Test in Chrome, Firefox, Safari when possible
+6. **Console**: Check browser console for errors or warnings
+
 ## Deployment
 
 The project includes pre-configured deployment settings for:
@@ -126,6 +150,30 @@ Both platforms will automatically deploy on push to the repository.
 3. **Use Git LFS** - Large files must go through LFS (configured in `.gitattributes`)
 4. **Language is Spanish** - All presentation content is in Spanish (`es-ES`)
 5. **Theme compatibility** - When adding custom components, ensure they work with the Seriph theme
+6. **Bilingual documentation** - Files with `.es.md` counterparts must be updated in both languages. If you can only edit one language version, note this in your commit message or PR.
+
+## Commit Conventions
+
+This project uses simple, descriptive commit messages starting with action verbs:
+
+**Format**: `Action verb + description of what was done`
+
+**Common patterns**:
+- `Add [feature/file/content]` - For new additions
+- `Change [what was changed]` - For modifications
+- `Remove [what was removed]` - For deletions
+- `Fix [what was fixed]` - For bug fixes
+
+**Examples from this project**:
+```bash
+Add README in English version
+Change original README ES for EN version
+Add real content for every slide
+Fix title formatting error
+Remove demo content directories from Slidev
+```
+
+Keep messages clear, concise, and in imperative mood (e.g., "Add feature" not "Added feature").
 
 ## Slidev-Specific Features
 
@@ -158,13 +206,31 @@ const example = "code";
 
 MDC (Markdown Components) is enabled. This allows for advanced component usage within markdown.
 
+## Accessibility Requirements
+
+When making changes, maintain accessibility standards defined in `STYLE_GUIDE.md`:
+- All color combinations meet WCAG 2.1 AA standards
+- Primary (`#1B3C53`) on white: AAA (11.2:1 contrast)
+- Minimum font size: 16px with adequate line height (1.6-1.8)
+- Provide `alt` attributes for all images
+- Ensure keyboard navigation works (arrows, space, tab)
+
 ## Project Context
 
-- **Authors:** Ing. Fernando Cardozo, Alberto Álvarez
+- **Authors:** Ing. Fernando Cardozo (fernanditocardozo@protonmail.com), Alberto Álvarez
 - **Supervisor:** Prof. Lic. Moisés Ávalos
 - **Institution:** Centro Tecnológico de Formación Profesional Paraguay-Japón (CTFP-PJ) / SNPP
 - **Location:** San Lorenzo, Paraguay
 - **Year:** 2025
+- **License:** MIT License
 - **Research focus:** Systematization of pre-writing process for audiovisual scripts, examining tools and methodologies adapted to screenwriters in the Central Department of Paraguay
 
 The presentation covers 5 chapters: Introductory Framework, Theoretical Framework, Methodological Framework, Analytical Framework, and Software Requirements.
+
+## Additional Resources
+
+- Full contributing guidelines: See `CONTRIBUTING.md` / `CONTRIBUTING.es.md`
+- Code of Conduct: See `CODE_OF_CONDUCT.md` / `CODE_OF_CONDUCT.es.md`
+- Security Policy: See `SECURITY.md` / `SECURITY.es.md`
+- Style Guide: See `STYLE_GUIDE.md` for complete Dreamink brand colors and design patterns
+- Slidev Documentation: https://sli.dev/
