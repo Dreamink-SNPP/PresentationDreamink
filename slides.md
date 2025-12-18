@@ -7,16 +7,17 @@ theme: seriph
 background: https://cover.sli.dev
 
 # Presentation Information
-title: Presentación de Tesis
+title: Presentación de Proyecto
 info: |
-  ## Tesis de Grado
-  [Título de la Tesis]
+  ## Proyecto Técnico
+  Dispersión organizativa de estructuras dramáticas
+  en los guionistas del Departamento Central
 
-  Presentado por: [Nombre del Autor]
-  Director/a: [Nombre del Director/a]
+  Presentado por: Ing. Fernando Cardozo y Alberto Álvarez
+  Tutor: Prof. Lic. Moisés Ávalos
 
-  [Nombre de la Universidad]
-  [Año]
+  Centro Tecnológico de Formación Profesional - Paraguay Japón
+  2025
 
 # MDC Syntax Support
 mdc: true
