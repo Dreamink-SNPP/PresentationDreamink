@@ -1,21 +1,21 @@
 ---
-layout: cover
 class: text-center
 ---
 
-# Dispersión organizativa de estructuras dramáticas en los guionistas del Departamento Central
+# «Dispersión organizativa de estructuras dramáticas en los guionistas del Departamento Central. 2025»
 
-Técnico Superior en Programación de Aplicaciones Informáticas
-
-<div class="pt-12">
-  <span class="text-sm">
-    Presentado por: Ing. Fernando Cardozo y Alberto Álvarez<br>
-    Tutor: Prof. Lic. Moisés Ávalos<br>
-    Centro Tecnológico de Formación Profesional Paraguay -- Japón (CTFP--PJ)<br>
-    Servicio Nacional de Promoción Profesional (SNPP)<br>
-    San Lorenzo, Paraguay · 2025
-  </span>
+<div style="margin: 2rem auto;">
+  <img src="/img/icon.png" alt="Dreamink Logo" style="width: 180px; margin: 0 auto;" />
 </div>
+
+**Tutor:** Prof. Lic. Moisés Ávalos
+
+**Autores:**
+Ing. Fernando Cardozo y Alberto Álvarez
+
+San Lorenzo – Paraguay
+
+2025
 
 <!--
 Notas del presentador:
