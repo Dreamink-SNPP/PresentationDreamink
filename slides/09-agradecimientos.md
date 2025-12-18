@@ -16,6 +16,8 @@ A los **guionistas del Departamento Central** que participaron en las entrevista
 </div>
 
 ---
+layout: end
+---
 
 <div class="text-2xl mt-12">
 
