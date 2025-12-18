@@ -1,18 +1,24 @@
+---
+layout: center
+---
+
 # Objetivos
+
+---
+layout: center
+---
 
 ## Objetivo General
 
-**Describir** los métodos de sistematización para la pre-escritura de guiones utilizados por los guionistas del Departamento Central en 2025.
+**Describir** los métodos de sistematización del proceso de _pre-escritura_ de guiones utilizados por los guionistas del Departamento Central durante el año 2025.
 
 ---
 
 ## Objetivos Específicos
 
-1. **Identificar** los enfoques organizativos para elementos narrativos durante la fase de pre-escritura
-
-2. **Caracterizar** las herramientas y métodos para la estructuración dramática antes del guion literario
-
-3. **Describir** las principales dificultades encontradas en la sistematización de los procesos de pre-escritura
+1. **Identificar** las formas de organización de elementos narrativos (personajes, locaciones e ideas) empleadas por los guionistas durante la fase de pre-escritura.
+2. **Caracterizar** las herramientas y métodos utilizados por los guionistas para estructurar dramáticamente sus obras antes del guion literario.
+3. **Describir** las principales dificultades que enfrentaron los guionistas en la sistematización del proceso de pre-escritura.
 
 <!--
 Notas del presentador:
