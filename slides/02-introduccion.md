@@ -1,8 +1,18 @@
+---
+layout: center
+---
+
 # Introducción
+
+---
+layout: center
+---
 
 ## Contexto de la Investigación
 
 La **sistematización del proceso de pre-escritura de guiones** constituye una práctica fundamental para garantizar la coherencia y viabilidad de proyectos audiovisuales antes de la composición literaria final.
+
+---
 
 ## Estructura del Estudio
 
@@ -13,6 +23,10 @@ Esta investigación abarca cinco capítulos que cubren:
 - **Marco metodológico** - Diseño de investigación
 - **Marco analítico** - Hallazgos y análisis de datos
 - **Requerimientos de software** - Documentación arquitectónica
+
+---
+layout: center
+---
 
 ## Relevancia
 
