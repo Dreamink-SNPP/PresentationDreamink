@@ -1,10 +1,22 @@
+---
+layout: center
+---
+
 # Hallazgos Principales
+
+---
+layout: center
+---
 
 ## 1. Rechazo de Plantillas Estándar
 
 Los tres guionistas **rechazaron fichas de personaje tradicionales**, desarrollando sistemas personalizados que priorizan aspectos psicológicos sobre descripciones físicas.
 
 > "Me siento encorsetado por formatos rígidos que inhiben el flujo creativo" - E2
+
+---
+layout: center
+---
 
 ## 2. Proceso Creativo Bifásico
 
@@ -13,12 +25,18 @@ Patrón consistente: exploración creativa no estructurada ("proceso vómito") s
 La **escaleta** emergió como documento sagrado que define la estructura completa antes de escribir diálogos.
 
 ---
+layout: center
+---
 
 ## 3. Necesidad de Visualización Física
 
 Los tres participantes usan **post-its en paredes** en lugar de herramientas digitales, enfatizando la manipulación táctil.
 
 > "Esa sensación táctil de mover la historia...ninguna pantalla me la da igual" - E2
+
+---
+layout: center
+---
 
 ## 4. Crisis de Fragmentación de Información
 
@@ -29,6 +47,10 @@ Los tres participantes usan **post-its en paredes** en lugar de herramientas dig
 
 > "Viviendo del Alt+Tab entre ventanas" - E2
 
+---
+layout: center
+---
+
 ## 5. Preferencia Híbrida Análogo-Digital
 
 **Base cognitiva:** La creación en papel previene auto-edición prematura que "mata la creatividad", mientras las herramientas digitales permiten organización.
@@ -37,6 +59,8 @@ Los tres participantes usan **post-its en paredes** en lugar de herramientas dig
 - Digital para **formalización**
 - *No son fases intercambiables*
 
+---
+layout: center
 ---
 
 ## Implicación para DREAMINK
