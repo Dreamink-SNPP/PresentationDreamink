@@ -56,6 +56,7 @@ Para editar el contenido, modifica los archivos individuales en slides/:
   - 05-justificacion.md        (Justificación del estudio)
   - 06-marco-metodologico.md   (Metodología de investigación)
   - 07-conclusion.md           (Conclusiones y hallazgos)
+  - 08-tecnologias.md          (Tecnologías Utilizadas)
   - 09-agradecimientos.md      (Agradecimientos y cierre)
 
 ═══════════════════════════════════════════════════════════════════
@@ -91,6 +92,10 @@ src: ./slides/06-marco-metodologico.md
 
 ---
 src: ./slides/07-conclusion.md
+---
+
+---
+src: ./slides/08-tecnologias.md
 ---
 
 ---
