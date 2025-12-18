@@ -1,20 +1,35 @@
+---
+layout: center
+---
+
 # Planteamiento del Problema
+
+---
 
 ## Situación Problemática
 
 - Los guionistas enfrentan **desafíos durante la pre-escritura** debido a la naturaleza no lineal del trabajo creativo
 
-- En Latinoamérica, los guionistas aprenden mayormente de forma **autodidacta** (32.8% en Chile)
+- En Latinoamérica, los guionistas aprenden mayormente de forma **autodidacta**
 
 - El sector audiovisual paraguayo se institucionalizó recientemente pero **carece de estudios académicos** sobre prácticas locales
 
+---
+layout: center
+---
+
 ## Consecuencia Principal
 
-> Los profesionales principiantes **carecen de referencias metodológicas**, extendiendo innecesariamente su curva de aprendizaje.
+> Los profesionales principiantes **carecen de referencias metodológicas**, extendiendo su curva de aprendizaje.
+
+---
+layout: center
+---
 
 ## Pregunta de Investigación
 
-**¿Cómo sistematizan los guionistas del Departamento Central el proceso de pre-escritura de sus proyectos audiovisuales?**
+¿**Cuáles** fueron los métodos de sistematización del proceso de _pre-escritura_ de guiones
+utilizados por los guionistas del Departamento Central durante el año 2025?
 
 <!--
 Notas del presentador:
