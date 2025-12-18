@@ -47,6 +47,7 @@ Este archivo es el punto de entrada principal de la presentación.
 Importa todas las secciones desde la carpeta slides/
 
 Para editar el contenido, modifica los archivos individuales en slides/:
+  - 00-fondo.md                (Fondo de la presentación)
   - 01-portada.md              (Página de título)
   - 02-introduccion.md         (Introducción y contexto)
   - 03-planteamiento-problema.md (Problema de investigación)
@@ -58,6 +59,10 @@ Para editar el contenido, modifica los archivos individuales en slides/:
 
 ═══════════════════════════════════════════════════════════════════
 -->
+
+---
+src: ./slides/00-fondo.md
+---
 
 ---
 src: ./slides/01-portada.md
