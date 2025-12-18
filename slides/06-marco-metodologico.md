@@ -1,11 +1,19 @@
+---
+layout: center
+---
+
 # Marco Metodológico
+
+---
 
 ## Tipo de Investigación
 
 - **Tipo:** Investigación básica, descriptiva
 - **Diseño:** Transversal (período único: 2025)
 - **Enfoque:** Cualitativo
-- **Nivel:** Observacional-descriptivo sin intervención experimental
+- **Nivel:** Observacional-descriptivo
+
+---
 
 ## Población y Muestra
 
@@ -13,7 +21,7 @@
 - **Muestra:** Tres (3) guionistas seleccionados por muestreo aleatorio simple
 - **Criterios de inclusión:**
   - Profesionales activos en Departamento Central
-  - Experiencia demostrable en guion cinematográfico
+  - Experiencia en guion cinematográfico
   - Disposición voluntaria a participar
 
 ---
@@ -23,6 +31,8 @@
 - **Técnica:** Entrevistas semiestructuradas
 - **Instrumento:** Guía de entrevista diseñada para explorar sistematización de pre-escritura
 - **Formato:** Preguntas abiertas permitiendo a participantes expresar libremente sus experiencias
+
+---
 
 ## Análisis de Datos
 
